@@ -1,0 +1,11 @@
+﻿#firstHeading {
+    color:blue;
+    font-family:'MS Gothic', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva, Verdana, sans-serif';
+}
+
+body {
+    background-color:#03BCFF;
+}
+.introText{
+    color:white;
+}
